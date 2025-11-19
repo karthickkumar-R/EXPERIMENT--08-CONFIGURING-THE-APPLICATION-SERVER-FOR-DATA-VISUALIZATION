@@ -1,6 +1,6 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION
-### Name   : Vamsi Krishna G
-### Reg no : 212223220120
+### Name   : KARTHICKKUMAR R
+### Reg no : 212223040087
 ## Aim: 
 To  configure  the Application server and visualize the data on the dashboard 
 
